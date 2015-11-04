@@ -2,7 +2,7 @@
 
 ## résumé
 
-C'est un serveur affichant des pages html (templates dust), l'utilisateur peut en outre, si
+C'est un serveur affichant des pages html (templates dust), l'utilisateur peut en outre, s'y
 	
    * connecter et s'enregistrer en local (base mongo[nosql]).
    * Faire un payment par carte bancaire et si l'utilisateur le veut, enregistrer sa carte.
