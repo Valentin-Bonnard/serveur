@@ -1,0 +1,49 @@
+{
+  "author": "Valentin",
+  "name": "Server-game",
+  "version": "0.3.0",
+  "private" : true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Valentin-Bonnard/JS-NodeJS.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Erreur: application non specifié\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "paypal-rest-sdk": "0.*",
+    "express": "~4.12.3",
+    "morgan": "~1.5.2",
+    "cookie-parser": "latest",
+    "express-session": "latest",
+    "mongoskin": "1.4.4",
+    "dustjs-linkedin": "2.3.5",
+    "dustjs-helpers": "1.2.0",
+    "body-parser": "latest",
+    "passport": "~0.2.1",
+    "passport-local": "~1.0.0",
+    "bcrypt-node": "latest",
+    "passport-facebook": "~2.0.0",
+    "https": "1.0.0",
+    "debug": "~2.1.1",
+    "consolidate": "0.10.0",
+    "connect-flash": "0.1.1",
+    "node-uuid": "1.4.1",
+    "crypto" : "0.0.3",
+    "errorhandler": "1.4.2",
+    "colors": "1.1.2",
+    "compression" : "1.6.0",
+    "serve-favicon": "^2.0.1",
+    "mongoose" : "latest"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.3.0"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}

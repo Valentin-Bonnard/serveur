@@ -1,0 +1,194 @@
+{>layout/}
+{<content}
+	{#message}
+		<div class="alert fade in alert-{type}">
+			<button class="close" data-dismiss="alert">&times;</button>
+			{desc}
+		</div>
+	{/message} 
+	  
+      <div class='container' id='content'>
+      
+      <div class='row gold-row'>
+        <div class='span2'>
+          <div class='image'>
+            <img  alt="Gold 0" src="../images/0000000000000000000000000000000" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold0" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img   alt="Gold 1" src="../images/0000000000000000000000000000001" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold1" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 2" src="../images/0000000000000000000000000000002" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold2" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 3" src="../images/0000000000000000000000000000003" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold3" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 4" src="../images/0000000000000000000000000000004" />
+          </div>
+          <div class='details'>
+            20.00€
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold4" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 5" src="../images/0000000000000000000000000000005" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold5" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+      </div>
+      <div class='row Gold-row'>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 6" src="../images/0000000000000000000000000000006" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold6" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 7" src="../images/0000000000000000000000000000007" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold7" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 8" src="../images/0000000000000000000000000000008" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold8" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 9" src="../images/0000000000000000000000000000009" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold9" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 10" src="../images/00000000000000000000000000000010" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold10" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 11" src="../images/00000000000000000000000000000011" />
+          </div>
+          <div class='details'>
+            20.00€
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold11" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+      </div>
+      <div class='row Gold-row'>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 12" src="../images/00000000000000000000000000000012" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold12" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 13" src="../images/00000000000000000000000000000013" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold13" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 14" src="../images/00000000000000000000000000000014" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold14" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 15" src="../images/00000000000000000000000000000015" />
+          </div>
+          <div class='details'>
+            20.00€
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold15" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 16" src="../images/00000000000000000000000000000016" />
+          </div>
+          <div class='details'>
+            20.00€ 
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold16" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+        <div class='span2'>
+          <div class='image'>
+            <img alt="Gold 17" src="../images/00000000000000000000000000000017" />
+          </div>
+          <div class='details'>
+            20.00€
+            <a href="/orderConfirm?orderAmount=20.00&orderDescription=Gold18" class="btn btn-small" data-disable-with="Procesing.." data-method="get" rel="nofollow">Acheter</a>
+          </div>
+        </div>
+      </div>
+      <br/><br/><br/>
+      <div class="row">
+		  <div class="span6 offset3">
+	   	    <p>html lancée par un seveur</p>
+			<ul>
+				<li>Sauvegarder les informations de ma carte pour un prochain paiment.</li>
+				<li>Effectuer payment(s) par carte bancaire(visa/masterCard, etc...).</li>
+				<li>Effectuer payment(s) par Paypal.</li>
+        <li>Permet de se connecter/s'enresgistrer en local.</li>
+        <li>permet de se connecter via Facebook.</li>
+			</ul>
+			</div>
+      </div>      
+    </div>
+{/content}
