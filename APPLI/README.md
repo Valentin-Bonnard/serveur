@@ -1,15 +1,15 @@
-# Serveur - express - dust - paypal 
+# Serveur - express - dust - paypal - Facebook
 
 ## résumé
 
-C'est un serveur affichant des pages html (templates dust), l'utilisateur peut en outre si 
+C'est un serveur affichant des pages html (templates dust), l'utilisateur peut en outre,  si
 	
    * connecter et s'enregistrer en local (base mongo[nosql]).
    * Faire un payment par carte bancaire et si l'utilisateur le veut, enregistrer sa carte.
    * Faire des payment par Paypal.
    * Se connecter par Facebook. 
 
-## Prerequisites
+## Prerequis
 
    * Node V0.8+
    * MongoDB serveur
