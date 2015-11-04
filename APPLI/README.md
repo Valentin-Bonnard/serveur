@@ -1,6 +1,6 @@
 # Serveur - express - dust - paypal - Facebook
 
-## résumé
+## Résumé
 
 C'est un serveur affichant des pages html (templates dust), l'utilisateur peut en outre, s'y
 	
@@ -23,6 +23,6 @@ C'est un serveur affichant des pages html (templates dust), l'utilisateur peut e
 
 ## Configuration
 
-   Changer config.json pour modifier les parametre de Paypal et de la base de donnée (locale).
+   Changer config.json pour modifier les paramètre de Paypal et de la base de donnée (locale).
    
 

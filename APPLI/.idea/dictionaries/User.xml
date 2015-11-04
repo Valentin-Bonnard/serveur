@@ -1,13 +1,18 @@
 <component name="ProjectDictionaryState">
   <dictionary name="User">
     <words>
+      <w>affichant</w>
       <w>alors</w>
       <w>appelle</w>
       <w>authentification</w>
       <w>automatiquement</w>
       <w>avec</w>
+      <w>bancaire</w>
+      <w>c'est</w>
+      <w>carte</w>
       <w>commande</w>
       <w>commandes</w>
+      <w>connecter</w>
       <w>crypter</w>
       <w>crypto</w>
       <w>créer</w>
@@ -16,13 +21,16 @@
       <w>d'un</w>
       <w>d'update</w>
       <w>d'écriture</w>
+      <w>dependences</w>
       <w>donc</w>
       <w>donnée</w>
       <w>doublon</w>
       <w>encodage</w>
+      <w>enregistrer</w>
       <w>enumére</w>
       <w>erreur</w>
       <w>etre</w>
+      <w>faire</w>
       <w>fournir</w>
       <w>garder</w>
       <w>hexadécimale</w>
@@ -31,21 +39,37 @@
       <w>introuvable</w>
       <w>jour</w>
       <w>l'abilité</w>
+      <w>l'application</w>
       <w>l'utilisateur</w>
+      <w>lancé</w>
+      <w>mettre</w>
       <w>mise</w>
+      <w>mongo</w>
+      <w>mongod</w>
       <w>n'est</w>
+      <w>navigateur</w>
       <w>nombre</w>
+      <w>nosql</w>
       <w>nouvelle</w>
       <w>nécessaires</w>
       <w>objet</w>
       <w>obtenir</w>
       <w>ordre</w>
+      <w>paramètre</w>
+      <w>paypal</w>
+      <w>peut</w>
       <w>plusieurs</w>
+      <w>prérequis</w>
       <w>relatif</w>
+      <w>résumé</w>
+      <w>s'enregistrer</w>
       <w>s'il</w>
+      <w>s'installera</w>
+      <w>serveur</w>
       <w>toutes</w>
       <w>userid</w>
       <w>utilisateur</w>
+      <w>veut</w>
       <w>vrai</w>
       <w>vérifie</w>
     </words>
